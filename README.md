@@ -1,2 +1,2 @@
-# NordArmy-Mod-3.1
+# NordArmy-Mod
 A Mod for 7 Days To Die
