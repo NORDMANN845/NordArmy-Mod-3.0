@@ -3,7 +3,7 @@
 	<ServerGroup Name="NordArmy Mod" Logo="https://i.postimg.cc/1RW2gM5K/NordArmy.jpg">
 		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
 		<Server Name="NordArmy">
-			<Version>2.2</Version>
+			<Version>2</Version>
 			<DownloadMode>Release</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/NORDMANN845/NordArmy-Mod-3.0/releases</Download>
