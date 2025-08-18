@@ -23,6 +23,16 @@ Ready to face the unknown? The world of 7 Days to Die will never be the same aga
 
 Compatible with Version 2 
 
+Changelog
+FIXED:
+
+-UI loading time improved with new Backpack implementation
+-NA_TOWER stability significantly enhanced
+-All NA food and drink items rebalanced and adjusted
+-LORD RAGEFUR now correctly drops animal fat
+
+Note: No restart required.
+
 NordArmy Mod Content list:
 
 Story:
@@ -126,3 +136,4 @@ NORDMANN and TEAM
 		</Server>
 	</ServerGroup>
 </Servers>
+
