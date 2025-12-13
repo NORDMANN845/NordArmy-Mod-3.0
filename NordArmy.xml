@@ -12,6 +12,16 @@
 			<!-- Got a website -->
 			<WebSite>https://7daystodiemods.com/nordarmy-mod-3-0/</WebSite>
 			<Description>
+CHANGELOG NA:
+Updated for Version 2.5
+-StatBars adjusted
+-NA vehicles can now explode
+-ZEDs improved
+-Vehicles updated for Version 2.5
+-Removed unique_key for trader quest
+
+Pick the map NORDLAND PMI
+				
 NordArmy Mod: A New Era for 7 Days to Die
 
 The NordArmy Mod revolutionizes the classic survival experience of 7 Days to Die, bringing a fresh and thrilling new gameplay dynamic. 
@@ -136,4 +146,5 @@ NORDMANN and TEAM
 		</Server>
 	</ServerGroup>
 </Servers>
+
 
