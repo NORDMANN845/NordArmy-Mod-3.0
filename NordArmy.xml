@@ -13,12 +13,11 @@
 			<WebSite>https://7daystodiemods.com/nordarmy-mod-3-0/</WebSite>
 			<Description>
 CHANGELOG NA:
-Updated for Version 2.5
--StatBars adjusted
--NA vehicles can now explode
--ZEDs improved
--Vehicles updated for Version 2.5
--Removed unique_key for trader quest
+NordArmy Mod – Update 3.3
+• Updated for Vanilla 2.6
+• General performance tweaks
+• Multiple bug fixes
+• Adjusted vehicle stats
 
 Pick the map NORDLAND PMI
 				
@@ -146,5 +145,6 @@ NORDMANN and TEAM
 		</Server>
 	</ServerGroup>
 </Servers>
+
 
 
