@@ -3,7 +3,7 @@
 	<ServerGroup Name="NordArmy Mod" Logo="https://i.postimg.cc/1RW2gM5K/NordArmy.jpg">
 		<!-- Logo is a direct link to a jpg /png file. Default image dimension is 2064x452 -->
 		<Server Name="NordArmy">
-			<Version>3.0</Version>
+			<Version>3.3</Version>
 			<DownloadMode>Release</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/NORDMANN845/NordArmy-Mod-3.0/releases</Download>
@@ -12,8 +12,8 @@
 			<!-- Got a website -->
 			<WebSite>https://7daystodiemods.com/nordarmy-mod-3-0/</WebSite>
 			<Description>
-NordArmy Mod – Update 4.2.2
-Updated for Vanilla 3.2
+NordArmy Mod 5
+Updated for Vanilla 3.3
 
 Pick the map NORDLAND PMI
 				
